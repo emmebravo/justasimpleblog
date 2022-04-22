@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta minus blanditiis accusamus recusandae ad consequuntur saepe, quam officia dolor nam repellendus asperiores delectus quaerat veritatis iusto necessitatibus mollitia? Error, placeat?",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "Welcome party!",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta minus blanditiis accusamus recusandae ad consequuntur saepe, quam officia dolor nam repellendus asperiores delectus quaerat veritatis iusto necessitatibus mollitia? Error, placeat?",
+      "author": "Luigi",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta minus blanditiis accusamus recusandae ad consequuntur saepe, quam officia dolor nam repellendus asperiores delectus quaerat veritatis iusto necessitatibus mollitia? Error, placeat?",
+      "author": "Princess Peach",
+      "id": 3
+    }
+  ]
+}
